@@ -1,7 +1,7 @@
 {
   "description": "Workspace with Eclipse for Java dev",
   "docker_registry": "./",
-  "name": "elicpse",
+  "name": "elicpse.docker",
   "image_src": "eclipse.png",
   "categories": [
     "Development"
