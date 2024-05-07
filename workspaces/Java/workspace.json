@@ -6,7 +6,7 @@
   "categories": [
     "Development"
   ],
-  "friendly_name": "Visual Studio Code",
+  "friendly_name": "Eclipse",
   "architecture": [
     "amd64",
     "arm64"
